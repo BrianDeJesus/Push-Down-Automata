@@ -7,13 +7,7 @@ Tool: C++
 Compiler: g++
 
 Input File: sequence.txt
-
-
----------HOW TO COMPILE:
-g++ -o dejesus2 dejesus2.cpp
-
-----------HOW TO RUN:
-./dejesus2
+(must be named sequence.txt)
 
 
 OUTPUT:
