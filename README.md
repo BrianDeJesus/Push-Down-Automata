@@ -6,8 +6,11 @@ Purpose: To simulate a PDA to parse the sequences of correctly paired if-else in
 Tool: C++
 Compiler: g++
 
-Input File: sequence.txt
-(must be named sequence.txt)
+
+Input File: sequence.txt (check to see example)
+     - (must be named sequence.txt)
+     - Every line is a new sequence
+     - You can enter any amount of lines/sequences
 
 
 OUTPUT:
